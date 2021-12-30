@@ -5,3 +5,15 @@
     padding: 1.5625rem 5rem;
     text-transform: lowercase;
 }
+
+@media screen and (min-width: 0) {
+    .pessoas {
+        padding:  0 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .pessoas {
+        padding: 1.5625rem 5rem;
+    }
+}
